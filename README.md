@@ -6,4 +6,5 @@ Quickly edit your wx.pth file in site-packages
 ![wxpthLocation](wxpthLocation.png "wx.pth Location")
 
 Requirements: Python and wxPython
+
 License: wxPython/wxWidgets
